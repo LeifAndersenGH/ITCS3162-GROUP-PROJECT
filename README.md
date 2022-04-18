@@ -1,8 +1,15 @@
-Data Mining Group Project
+# Data Mining Group Project
 
-Authors:
+## Authors:
 
-Leif Andersen
+Leif Andersen 
+
 [ENTER NAME HERE]
+
 [ENTER NAME HERE]
+
 [ENTER NAME HERE]
+
+## Description
+
+Project explanation here
