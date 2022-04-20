@@ -6,9 +6,9 @@ Leif Andersen
 
 Jacob Mosley
 
-[ENTER NAME HERE]
+Thomas Cowe
 
-[ENTER NAME HERE]
+Joseph Sinkus
 
 ## Description
 
