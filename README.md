@@ -10,6 +10,7 @@ Thomas Cowe
 
 Joseph Sinkus
 
+Cooper Lohr
 ## Description
 
 Project explanation here
